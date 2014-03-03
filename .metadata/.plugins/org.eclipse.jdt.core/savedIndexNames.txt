@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/home/alex/AndroidNetworkFramework/.metadata/.plugins/org.eclipse.jdt.core
+354755381.index
+2661909512.index
